@@ -1,6 +1,13 @@
-# BoomBikeSharing Case Study
+# Waste Material Segregation for Improving Waste Management
 
-This Multiple Linear Regression study seeks to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+## Objective
+The objective of this project is to implement an effective waste material segregation system using convolutional neural networks (CNNs) that categorises waste into distinct groups. This process enhances recycling efficiency, minimises environmental pollution, and promotes sustainable waste management practices.
+
+## The key goals are:
+
+Accurately classify waste materials into categories like cardboard, glass, paper, and plastic.
+Improve waste segregation efficiency to support recycling and reduce landfill waste.
+Understand the properties of different waste materials to optimise sorting methods for sustainability.
 
 
 ## Table of Contents
